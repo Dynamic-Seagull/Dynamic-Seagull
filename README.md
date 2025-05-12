@@ -8,6 +8,7 @@
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 저는 C/C++을 주로 사용하는 주니어 개발자입니다. </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 기술은 타인의 권리를 침해하지 않는 선에서 선한 방향으로 활용되고 발전해야 한다는 마음가짐을 최우선으로 생각합니다.<br><br></li></li>동아대학교 컴퓨터공학과를 졸업하고, 현재는 한국방송통신대학교 경영학과에 재학 중이며, 기술뿐 아니라 비즈니스적인 사고도 함께 기르기 위해 노력하고 있습니다.</li></li> </div>
+        <br>
         <p>
           <a href="https://dynamic-seagull.github.io/" target="_blank">
             <img src="https://img.shields.io/badge/Portfolio-View-blue?style=for-the-badge&logo=githubpages" alt="Resume Badge">
